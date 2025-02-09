@@ -16,6 +16,7 @@ The Digital Portfolio Builder is a web application that allows users to create, 
 - **Portfolio Sharing**: Share portfolios via unique links.
 
 ## Project Structure
+```sh
 backend/
   ├── manage.py
   ├── portfolio_builder/
@@ -32,6 +33,7 @@ frontend/
   │   ├── components/
   │   ├── pages/
   │   ├── styles/
+```
 
 ## Installation & Setup
 
